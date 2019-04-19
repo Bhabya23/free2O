@@ -32,6 +32,7 @@ the applicaitons of various water conservation and harvesting techniques.
 * HTML
 * CSS
 * GIt
+* JavaScript
 
 ## Instructions to run the project
 We did not get to build a database due to time-shortage. So we set the login/logout for following dummy values:
