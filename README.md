@@ -34,6 +34,8 @@ the applicaitons of various water conservation and harvesting techniques.
 * GIt
 
 ## Instructions to run the project
-
+We did not get to build a database due to time-shortage. So we set the login/logout for following dummy values:
+* Username: free2Owater@gmail.com
+* Password: free2Owater1234
 
 
