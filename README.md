@@ -21,8 +21,7 @@ There are primarily two aspects of the project:
   and the for transportation and setup services is covered in the fee. He is then considered a 'Harvester'
 
 * Any members, who are in dire need of water, can apply for the free water supply here. If they are found to be within an area where
-	a Harvester is present. Then the Harvester can provide the water to the appliers 
-	(within a certain daily limit).
+  a Harvester is present. Then the Harvester can provide the cost-free water to the appliers (within a certain max limit).
 
 Additionally, the organisation also aims in bring about public awareness about water conservation by teaching them 
 the applicaitons of various water conservation and harvesting techniques.
